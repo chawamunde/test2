@@ -1,5 +1,5 @@
 # Test 2 Repository
-##Student Information
+## Student Information
 My name is Chawanangwa. I am practicing Github and Markdown skills.
 ## Course
 This repository is for Test 2.
